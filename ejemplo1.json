@@ -1,0 +1,47 @@
+[
+    {
+        "alumno": "Ricardo Pitty",
+        "nota": 9.09,
+        "ranking": 10
+    },
+    {
+        "alumno": "Robert Lewandoski",
+        "nota": 8.02,
+        "ranking": 9
+    },
+    {
+        "alumno": "Leonel Messi",
+        "nota": 9.12,
+        "ranking": 10
+    },
+    {
+        "alumno": "Jairo MBappe",
+        "nota": 8.45,
+        "ranking": 9
+    },
+    {
+        "alumno": "Luis Suarez",
+        "nota": 7.58,
+        "ranking": 8
+    },
+    {
+        "alumno": "Sergio Busquet",
+        "nota": 7.12,
+        "ranking": 8
+    },
+    {
+        "alumno": "Camila Cabello",
+        "nota": 8.78,
+        "ranking": 9
+    },
+    {
+        "alumno": "Alejandra Guzman",
+        "nota": 8.01,
+        "ranking": 9
+    },
+    {
+        "alumno": "Sofia Vergara",
+        "nota": 8.67,
+        "ranking": 9
+    }
+]
