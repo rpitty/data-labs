@@ -16,13 +16,13 @@
     },
     {
         "alumno": "Jairo MBappe",
-        "nota": 8.45,
-        "ranking": 9
+        "nota": 2.45,
+        "ranking": 2
     },
     {
         "alumno": "Luis Suarez",
-        "nota": 7.58,
-        "ranking": 8
+        "nota": 3.58,
+        "ranking": 3
     },
     {
         "alumno": "Sergio Busquet",
@@ -41,7 +41,7 @@
     },
     {
         "alumno": "Sofia Vergara",
-        "nota": 8.67,
-        "ranking": 9
+        "nota": 5.67,
+        "ranking": 5
     }
 ]
